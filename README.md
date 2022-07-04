@@ -74,3 +74,9 @@ sudo docker container ls -a
 sudo docker-compose exec web python manage.py loaddata fixtures.json
 ```
 База данных заполнена.
+
+## **Информация об авторе**
+Автор проекта: Третьяков Николай
+Контакты: 
+ - Email: nikontra@yandex.ru
+ - Git: https://github.co
